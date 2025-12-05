@@ -1,5 +1,12 @@
 
 # 🛡️ Project 2: Implementing Least Privilege with AWS IAM
+<img width="400" height="500" alt="img3-1" src="https://github.com/user-attachments/assets/05a4fab8-1fd2-4ca1-9e92-172d7466898f" /> 
+<img width="300" height="400" alt="img3-1" src="https://github.com/user-attachments/assets/b3b03456-520d-45cf-8a64-91f21fb29605"/>
+<img width="302" height="403" alt="img2" src="https://github.com/user-attachments/assets/352b888f-eb40-43dd-ad71-5e31120b6935" />
+
+
+
+
 
 ![AWS](https://img.shields.io/badge/AWS-Cloud-orange?style=for-the-badge&logo=amazon-aws)
 ![IAM](https://img.shields.io/badge/Security-IAM-red?style=for-the-badge&logo=security)
@@ -31,6 +38,9 @@ The project involves creating a custom JSON policy that restricts a user to **on
 3. **User Details:**
    - **Username:** `s3-read-user`
    - **Access Type:** Programmatic Access (Generates Access Key ID & Secret Access Key)
+     
+<img width="450" height="550" alt="iam-create-user" src="https://github.com/user-attachments/assets/9db73157-d3b4-45c6-8d0f-ea06388a3650" />
+<img width="500" height="500" alt="RMoncur3Phase0" src="https://github.com/user-attachments/assets/8f769206-b0d0-4771-b5b2-41bdfef0d251" />
 
 ---
 
@@ -152,6 +162,14 @@ After completing this project, you will understand:
 ---
 
 ## 🔄 Future Improvements
+<img width="300" height="500" alt="fig4" src="https://github.com/user-attachments/assets/a90c89c1-4616-4a79-baa5-888e1a62d432" />
+
+<img width="300" height="400" alt="aws-mfa-iam-api-1" src="https://github.com/user-attachments/assets/f32023a7-bc14-4851-a755-c6fa2f580e6f" />
+
+<img width="300" height="350" alt="EffectivePermissions-session-rbp-id" src="https://github.com/user-attachments/assets/56e96ce3-aa5e-4176-8763-a3aae178c4bc" />
+
+
+
 
 - [ ] **MFA Enforcement:** Add a condition in the policy to require Multi-Factor Authentication
 - [ ] **IAM Roles:** Transition from IAM Users to IAM Roles for EC2 integration
