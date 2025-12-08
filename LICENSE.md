@@ -20,10 +20,14 @@ LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
 
-ADDITIONAL DISCLAIMER:
+Additional Disclaimer
 
-This software is provided for educational and defensive security testing purposes only.
-Users are solely responsible for ensuring that their use of this software complies with
-all applicable laws and regulations. Unauthorized access to computer systems is illegal.
+This software is intended solely for educational, research, and defensive
+cybersecurity purposes. Users are entirely responsible for ensuring that
+their use of this software complies with all applicable laws, regulations,
+and organizational policies.
 
-The authors and contributors assume no liability for unauthorized or illegal use of this software.
+Unauthorized access to computer systems, networks, or data is strictly
+illegal. The authors and contributors assume no responsibility or
+liability for any misuse, damage, or unlawful activity resulting from
+the use of this software.
